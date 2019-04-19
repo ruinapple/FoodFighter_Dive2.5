@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 109be75276949ee4e9ae06b2cececc2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timeTxt: {instanceID: 0}
+  - _audio: {instanceID: 0}
+  - player: {instanceID: 0}
+  - scoreBoard: {instanceID: 0}
+  - bestScore: {instanceID: 0}
+  - yourScore: {instanceID: 0}
+  - btnGroup: {instanceID: 0}
+  - skipBtn: {instanceID: 0}
+  - ReadySetGo: {fileID: 8300000, guid: bb3f38f21cec79c41a1ea36935d84c2b, type: 3}
+  - ClockTicTok: {fileID: 8300000, guid: 44a6ff449a320b14eade1b3f3ded47d0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
